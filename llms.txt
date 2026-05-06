@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-mawdo3-khelas-its-over-thats-it/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for El Mawdo3 Khelas – It’s over, that’s it](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
