@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Mawdo3 Khelas – It’s over, that’s it
+
+This log tracks the cryptographic history and versioning for the song **El Mawdo3 Khelas – It’s over, that’s it** (el-mawdo3-khelas-its-over-thats-it).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:50:25.641847 | `v1` | `7eba53975f8b2ff6edf9d4c2eb0fedeec5eb8c00690a24c8a223418836957c9b` | `a40bf8e31384f21d9947361f35cdfe6ca644309fc6d9d0086421a534b522151e` | `2026-05-09_el-mawdo3-khelas-its-over-thats-it-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
